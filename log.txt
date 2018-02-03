@@ -1,0 +1,2 @@
+DEBUG:root:Frame: 0000 - undistortion: 246.0ms - thresholding: 4667.5ms - warp: 398.4ms - find_lines: 395.1ms
+DEBUG:root:Left radius: 2249.4 - right radius: 2029.4
